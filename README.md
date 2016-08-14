@@ -1,4 +1,4 @@
-# User Management Screen Project
+# User Management Project
 
 * Back-End Techologies
   - Spring 4.0 MVC
