@@ -1,0 +1,3 @@
+2016-08-03 01:21:18,959 INFO com.infonal.usermanagement.controller.UserManegementController:34 [main] Received request to show all users
+2016-08-03 01:21:19,146 WARN org.springframework.web.servlet.PageNotFound:210 [main] Request method 'PUT' not supported
+2016-08-03 01:21:19,200 WARN org.springframework.web.servlet.PageNotFound:210 [main] Request method 'PUT' not supported
